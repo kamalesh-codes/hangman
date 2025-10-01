@@ -1,0 +1,50 @@
+A fruit that's red or green,apple
+King of the jungle,lion
+Used to unlock doors,key
+Comes out at night and glows,moon
+Protects your head,helmet
+Man-made flying vehicle,airplane
+Insects that make honey,bees
+Largest planet in the solar system,jupiter
+Something you wear on your wrist,watch
+Ocean animal with eight legs,octopus
+Cold frozen water,ice
+Used to write on paper,pen
+Opposite of day,night
+Tall plant with leaves,tree
+Keeps time,clock
+Animal that barks,dog
+A place to borrow books,library
+You sit on it,chair
+Fast feline predator,cheetah
+A computer pointing device,mouse
+Reptile that changes color,chameleon
+Season with snow,winter
+Planet we live on,earth
+Keeps you dry in rain,umbrella
+You sleep on it,bed
+The hottest planet,venus  
+Used to cut paper,scissors  
+Device to take pictures,camera  
+Animal with a trunk,elephant  
+Frozen water falling from the sky,snow  
+Climbs trees and eats bananas,monkey  
+Carries mail,postman  
+In the sky after rain,rainbow  
+Not liquid, not gas,solid  
+Used to call someone,phone  
+Reptile with a shell,turtle  
+Found at the beach,sand  
+Flying insect that stings,wasp  
+The opposite of up,down  
+Used to measure time,watch  
+Planet with rings,saturn  
+A metal container for drinks,can  
+A building where movies are shown,cinema  
+The sound a cat makes,meow  
+A yellow citrus fruit,lemon  
+The capital of France,paris  
+Used to draw or sketch,pencil  
+Food made from milk,cheese  
+Shoots arrows,bow  
+Helps you see faraway objects,telescope
